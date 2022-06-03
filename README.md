@@ -4,10 +4,10 @@ https://testnet.arbiscan.io/tx/0xa58b5201a4dd19065c07248780a65f5178ed6d9e2095615
 
 
 02. New Campaign  
-https://testnet.arbiscan.io/tx/0x0ed95f3c174186c030da2e6d5dcfcee00745b3f77b9524552347292f3a8403e1  
 Sender: 0xBD3d736107744B3429081597b8A920CB69cad541  
 Receiver: 0xD26735a2ca0f4C3B8C29f568E281104e57399dA2  
 Goal: 100000000000000000 Wei = 0.1 ETH  
+https://testnet.arbiscan.io/tx/0x0ed95f3c174186c030da2e6d5dcfcee00745b3f77b9524552347292f3a8403e1  
 
 
 03. Bid  
